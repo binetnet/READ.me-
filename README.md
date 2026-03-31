@@ -5,12 +5,10 @@ This is a simple python program that would help students be reminded of their ac
 
 ## Features:
 -Calendar to track upcoming to-dos
--Notification system
+-Notification system 
 -Input schedule
 -User name inputs
--Friend system (optional)
--Game-like UI (optional)
--Streak (optional)
+-Game-like UI 
 
 ## How to Run the Program:
 1. Make sure to have Python installed.
